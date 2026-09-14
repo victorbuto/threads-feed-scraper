@@ -13,3 +13,6 @@ tsconfig.tsbuildinfo
 # Added by Apify CLI
 .venv
 .claude-flow/
+
+# Local research dumps (scraped posts) — not for the public repo
+exports/
